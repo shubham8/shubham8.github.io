@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham on Shubham</title>
+    <link>https://shubham8.github.io/</link>
+    <description>Recent content in Shubham on Shubham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Shubham Agrawal</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Impacts of Property Accessibility and Neighborhood Built Environment on Single-Unit and Multiunit Residential Property Values</title>
+      <link>https://shubham8.github.io/publication/2016-trr-property_accessibility/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubham8.github.io/publication/2016-trr-property_accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing aspects of electric vehicle drivers and their effects on network performance</title>
+      <link>https://shubham8.github.io/publication/2016-trpd-bev_routing/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubham8.github.io/publication/2016-trpd-bev_routing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
